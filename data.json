@@ -1,0 +1,64 @@
+{
+  "produkte": [
+    {
+        "img": "img/1.png",
+        "name": "Bacon Cheeseburger",
+        "kalorien": 339
+    },
+    {
+        "img": "img/2.png",
+        "name": "Bacon Hamburger Royal mit Käse",
+        "kalorien": 627
+    },
+    {
+        "img": "img/3.png",
+        "name": "SIGNATURE Steakhouse",
+        "kalorien": 844
+    },
+    {
+        "img": "img/4.png",
+        "name": "SIGNATURE Cheese & Bacon",
+        "kalorien": 914
+    },
+    {
+        "img": "img/5.png",
+        "name": "Hamburger",
+        "kalorien": 258
+    },
+    {
+        "img": "img/6.png",
+        "name": "Cheeseburger",
+        "kalorien": 306
+    },
+    {
+        "img": "img/7.png",
+        "name": "Double Cheeseburger",
+        "kalorien": 457
+    },
+    {
+        "img": "img/8.png",
+        "name": "Bacon Double Cheeseburger",
+        "kalorien": 569
+    },
+    {
+        "img": "img/9.png",
+        "name": "Big Mac",
+        "kalorien": 544
+    },
+    {
+        "img": "img/10.png",
+        "name": "Hamburger Royal TS",
+        "kalorien": 452
+    },
+    {
+        "img": "img/11.png",
+        "name": "Hamburger Royal mit Käse",
+        "kalorien": 547
+    },
+    {
+        "img": "img/12.png",
+        "name": "McF1rst Beef",
+        "kalorien": 481
+    }
+  ]
+}
